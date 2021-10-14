@@ -68,6 +68,19 @@ These steps helps in answering the follwing questions:
 - pandas
 - requests
 
+### Reflections:
+1.What biases did you expect to find in the data?
+  Before starting the data,I expected to find the bias in the ORES system predictions because I felt it mostly dependent on population, baed on the dense in      population the prediction was given to article.
+
+2.What (potential) sources of bias did you discover in the course of your data processing and analysis?
+ 1.The population data is more accurate when compared to article, as the results are more favoured to population.
+ 2.I found  most of  the countries which are mostly having zero high quality factor are having low income or countries which are specified as poor countries.
+ 3.Though  top rated article countries are there in fe countirs not all the polticians are into articles.
+
+3.What might your results suggest about the internet and global society in general?
+ Even though population is high there are few countries where the portion of top rated artciles is low, example INDIA, this infers the popularity of the politicains  over the society also plays a major role.
+
+4.
 
 
 ## License
