@@ -78,9 +78,11 @@ These steps helps in answering the follwing questions:
  3.Though  top rated article countries are there in fe countirs not all the polticians are into articles.
 
 3.What might your results suggest about the internet and global society in general?
- Even though population is high there are few countries where the portion of top rated artciles is low, example INDIA, this infers the popularity of the politicains  over the society also plays a major role.
+  Even though population is high there are few countries where the portion of top rated artciles is low, example INDIA, this infers the popularity of the       politicains   over the society also plays a major role.
 
-4.
+4.How might a researcher supplement or transform this dataset to potentially correct for the limitations/biases you observed?
+  They can include data about differnt politicains belong to a particluar country in the articles, instaed of confining to only popular politicains.
+  They can also consider the arting based on the content instaed of the popularity or population of the nation.
 
 
 ## License
